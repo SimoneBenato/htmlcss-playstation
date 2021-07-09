@@ -8,3 +8,18 @@
     text-decoration: none;
     color: black;
 }
+
+.jumbo {
+    width: 100%;
+    height: 500px; 
+}
+
+.uno {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+}
+
+img {
+    width: 100%;
+    background-size: cover;
+}
