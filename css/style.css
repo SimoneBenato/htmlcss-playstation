@@ -77,4 +77,8 @@ ul li a {
     .list-footer ul {
         margin-bottom: 20px;
     }
+
+    .item {
+        display: none;
+    }
 }
